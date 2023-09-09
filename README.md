@@ -30,16 +30,16 @@ Apple silicon Mac OS (M2) 와 원도우10, 그리고 Ubuntu 20.04 LTS 버전에�
 * 1강 파이토치를 활용한 데이터 로드하기, 기초 모델 만들기
   https://github.com/mgsong83/Deeplearning/blob/main/pytorch/01_Basic.ipynb
 
-  MNIST 예제로 보는 인공 신경망 쌓기
-  Pytorch Lightning 모듈을 활용한 Train 구현하기
+  - MNIST 예제로 보는 인공 신경망 쌓기
+  - Pytorch Lightning 모듈을 활용한 Train 구현하기
   
 * 2강 기초 모델 리뷰 & 개선하기
 
-  1강에서 만들었던 모델 리뷰
-  크로스 엔트로피에서 진행되는 것 (onehot encoding 과 softmax를 자동으로 해준다!)
-  Validation step 추가하기
-  Logger 설정하기
-  Predict 해보고 결과 확인 
+  - 1강에서 만들었던 모델 리뷰
+  - 크로스 엔트로피에서 진행되는 것 (onehot encoding 과 softmax를 자동으로 해준다!)
+  - Validation step 추가하기
+  - Logger 설정하기
+  - Predict 해보고 결과 확인 
   
 * 3강 모듈을 만드는 여러가지 방법
   

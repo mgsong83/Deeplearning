@@ -1,3 +1,3 @@
-
+.DS_Store
 model.onnx
 pytorch/.ipynb_checkpoints/05_Lightning_steps_and_logs-checkpoint.ipynb

@@ -49,7 +49,7 @@ Apple silicon Mac OS (M2) 와 원도우10, 그리고 Ubuntu 20.04 LTS 버전에�
   - Lightning sequantial 을 사용하는 방법 (Keras처럼)
   - For Loop 을 활용하는 방법
 
-*4강 만든 모듈을 시각화 하는 방법
+* 4강 만든 모듈을 시각화 하는 방법
   https://github.com/mgsong83/Deeplearning/blob/main/pytorch/04_Model_visualization.ipynb
   - 1, 2강에서 만들었던 모듈 시각화
   - ONNX를 활용한 visualization

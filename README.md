@@ -22,6 +22,7 @@ Apple silicon Mac OS (M2) 와 원도우10, 그리고 Ubuntu 20.04 LTS 버전에�
 
 
 
+
 ----
 
 ## 파이토치를 활용한 딥러닝 
@@ -34,7 +35,7 @@ Apple silicon Mac OS (M2) 와 원도우10, 그리고 Ubuntu 20.04 LTS 버전에�
   - Pytorch Lightning 모듈을 활용한 Train 구현하기
   
 * 2강 기초 모델 리뷰 & 개선하기
-
+  https://github.com/mgsong83/Deeplearning/blob/main/pytorch/02_Basic_Continue.ipynb
   - 1강에서 만들었던 모델 리뷰
   - 크로스 엔트로피에서 진행되는 것 (onehot encoding 과 softmax를 자동으로 해준다!)
   - Validation step 추가하기
@@ -42,11 +43,16 @@ Apple silicon Mac OS (M2) 와 원도우10, 그리고 Ubuntu 20.04 LTS 버전에�
   - Predict 해보고 결과 확인 
   
 * 3강 모듈을 만드는 여러가지 방법
-  
-  - Torch 또는 Lightning Moudle 을 상속 받는 컨테이너 (init에서 셋업하고, forward로 직접 연결)
+  https://github.com/mgsong83/Deeplearning/blob/main/pytorch/03_Build_module.ipynb
+  - Pytorch, Pytorch_Lightning을 활용해서 모델을 만드는 방법
+  - 리스트, 딕셔너리, for 문을 활용한 모듈 만들기
   - Lightning sequantial 을 사용하는 방법 (Keras처럼)
   - For Loop 을 활용하는 방법
 
+* 4강 만든 모듈을 시각화 하는 방법
+  https://github.com/mgsong83/Deeplearning/blob/main/pytorch/04_Model_visualization.ipynb
+  - 1, 2강에서 만들었던 모듈 시각화
+  - ONNX를 활용한 visualization
 
 ----
 
@@ -65,3 +71,8 @@ Apple silicon Mac OS (M2) 와 원도우10, 그리고 Ubuntu 20.04 LTS 버전에�
   - 선형회귀보다는 잘 맞추는 모델 만들기
 
 
+* 3강 케라스로 회귀하듯이 손글씨 분류해보기 ("8", "9" 두 개만 분류해보기)
+
+  - MSE를 활용한 분류 도전
+  - 회귀로 예측한 값의 해석
+  - 예측결과의 분포와 해석

@@ -4,3 +4,4 @@ pytorch/.ipynb_checkpoints/05_Lightning_steps_and_logs-checkpoint.ipynb
 pytorch/lightning_logs/
 *checkpoint.ipynb
 
+/keras/06_model/weather_dataset
